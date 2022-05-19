@@ -1,16 +1,30 @@
-### Hi there 👋
+## GEUNTAE  
 
-<!--
-**geuntae021/geuntae021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 디스코드, 유튜브 등에서 활동중인 근태 입니다!   
+저는 다양한 디스코드 봇과 사이트, 그리고 프로젝트들을 진행하고 있어요!  
 
-Here are some ideas to get you started:
+2022년 5월 5일 부터 커플이 되었어요! ㅎㅎ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+포트폴리오에 가시면 더 많은 근태의 정보들을 확인 하실 수 있어요!  
+[포트폴리오](https://geuntae.kr)
+
+## 내가 좋아하는 것  
+[🎤 MIGYO (미교)](https://www.instagram.com/jjeon_migyo/)  
+[⛏ DEVELOP]()  
+[❤️ 여친]()
+
+## MY WEB  
+[BLOG](https://blog.geuntae.kr)  
+[포트폴리오](https://geuntae.kr)
+## MY SNS
+
+[YOUTUBE](http://geuntae.kr/youtube)  
+[INSTAGRAM](https://geuntae.kr/instagram)  
+[FACEBOOK](https://geuntae.kr/facebook)  
+  
+## GITHUB  
+[깃허브](https://github.com/geuntae021)  
+
+## EMAIL  
+
+[EMAIL](geuntae@geuntae.pw)  
