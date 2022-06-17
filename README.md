@@ -9,9 +9,9 @@
 [포트폴리오](https://geuntae.kr)
 
 ## 내가 좋아하는 것  
+[❤️ 여친]()  
 [🎤 MIGYO (미교)](https://www.instagram.com/jjeon_migyo/)  
 [⛏ DEVELOP]()  
-[❤️ 여친]()
 
 ## MY WEB  
 [BLOG](https://blog.geuntae.kr)  
