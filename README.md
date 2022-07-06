@@ -14,10 +14,12 @@
 [⛏ DEVELOP]()  
 
 ## MY WEB  
+[포트폴리오](https://geuntae.kr)  
+[근위키](http://wiki.geuntae.kr)  
+[자리바꾸기 창고](https://seat.geuntae.kr)  
 [BLOG](https://blog.geuntae.kr)  
-[포트폴리오](https://geuntae.kr)
-## MY SNS
 
+## MY SNS
 [YOUTUBE](http://geuntae.kr/youtube)  
 [INSTAGRAM](https://geuntae.kr/instagram)  
 [FACEBOOK](https://geuntae.kr/facebook)  
@@ -27,4 +29,4 @@
 
 ## EMAIL  
 
-[EMAIL](geuntae@geuntae.pw)  
+[EMAIL](mailto:geuntae@geuntae.pw)  
