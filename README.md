@@ -24,7 +24,15 @@
 [YOUTUBE](http://geuntae.kr/youtube)  
 [INSTAGRAM](https://geuntae.kr/instagram)  
 [FACEBOOK](https://geuntae.kr/facebook)  
-  
+
+## MY ACTIVITY  
+[TEAM-ALL](https://guide.1.team-all.xyz)  
+[YVA](https://yva.geuntae.kr)  
+[Public Box](https://discord.gg/2Kzj4ShRwN)  
+[DSP](https://geuntae.kr/link/discord/dsp)  
+[NOB](https://discord.gg/WVYUFcGFcX)  
+[SUD](https://discord.gg/VkVaaQfStg)  
+
 ## GITHUB  
 [깃허브](https://github.com/geuntae021)  
 
