@@ -17,7 +17,7 @@
 [포트폴리오](https://geuntae.kr)  
 [근위키](http://wiki.geuntae.kr)  
 [자리바꾸기 창고](https://seat.geuntae.kr)  
-[BLOG](https://blog.geuntae.kr)  
+[BLOG](https://story.geuntae.kr)  
 [준비중..]()  
 
 ## MY SNS
