@@ -27,8 +27,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=geuntae021&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geuntae021&layout=compact&theme=tokyonight)
 
 ---
 
