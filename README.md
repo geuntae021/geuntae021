@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Featured Projects
-- [🌐 Personal Website](https://geuntae.kr) — My own portfolio & blog
+- [🌐 Personal Website](https://geuntaek.top) — My own portfolio & blog
 
 ---
 
